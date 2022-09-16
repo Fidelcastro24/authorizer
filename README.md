@@ -1,4 +1,4 @@
-# Authorizer Server on Railway App
+# Authorizer Server on Railway App☺️
 
 Deploy production ready [authorizer.dev](https://authorizer.dev) instance using [railway.app](https://railway.app) with [PostgreSQL](https://github.com/authorizerdev/authorizer-railway) / [MySQL](https://github.com/authorizerdev/authorizer-railway/tree/with-mysql-redis) and Redis for free and build with it in 30seconds
 
